@@ -1,2 +1,3 @@
-# Ola-Ride-Analysis
-This project analyzes Ola ride data using SQL and Power BI to uncover ride trends, cancellations, and revenue insights. SQL queries extract key metrics like ride status, customer behavior, and payment preferences. Power BI visualizations display ride volume, cancellations, ratings, and revenue breakdowns. 
+**Ola Ride Data Analytics Project**  
+
+This project analyzes Ola ride data using SQL and Power BI to uncover ride trends, cancellations, and revenue insights. SQL queries extract key metrics like ride status, customer behavior, and payment preferences. Power BI visualizations display ride volume, cancellations, ratings, and revenue breakdowns. The analysis helps optimize driver allocation, enhance customer experience, and boost revenue. Key recommendations include reducing cancellations, improving service quality, and leveraging peak-hour pricing. The insights support strategic decision-making for operational efficiency and profitability. 🚀
